@@ -5,5 +5,12 @@
         "author": "John Smith III",
         "description": "Enhance your Markdown documents with tags and arrow tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses.",
         "repo": "binarynoir/obsidian-markdown-tags"
+    },
+    {
+        "id": "wikilinks-to-mdlinks-obsidian",
+        "name": "Wikilinks to MDLinks",
+        "author": "Agatha Uy",
+        "description": "Convert wikilinks to Markdown links and vice versa.",
+        "repo": "agathauy/wikilinks-to-mdlinks-obsidian"
     }
 ]
